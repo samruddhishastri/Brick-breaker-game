@@ -1,6 +1,4 @@
-# DASS Assignment II
-## Brick Breaker Game
-#### Roll no. : 2019111039
+# Brick Breaker Game
 
 ### Install dependencies
 ```bash
