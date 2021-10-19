@@ -11,14 +11,14 @@ $ pip3 install colorama
 $ python3 main.py
 ```
 ### Guide to the game
-i) Use 'A' and 'D' keys to move the paddle to left and right
-ii) Use 'S' to launch the ball
-iii) Initially you have 10 balls. Each time you hit the ground, you will lose one ball
-iv) There are 3 levels
-v) Use 'N' to skip levels
-iv) You need to break all the breakable bricks before the balls get over to move to next level
-v) There are different powerups to aid you in the game
-vi) You need to beat the UFO in the third level to win the game
+i) Use 'A' and 'D' keys to move the paddle to left and right <br />
+ii) Use 'S' to launch the ball <br />
+iii) Initially you have 10 balls. Each time you hit the ground, you will lose one ball <br />
+iv) There are 3 levels <br />
+v) Use 'N' to skip levels <br />
+iv) You need to break all the breakable bricks before the balls get over to move to next level <br />
+v) There are different powerups to aid you in the game <br />
+vi) You need to beat the UFO in the third level to win the game <br />
 
 ### OOPS concepts used in the game
 
